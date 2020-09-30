@@ -4,6 +4,6 @@ Date: 2020-09-30
 Title: ALDdata
 Author: Randall Johnson <johnsonra@mail.nih.gov>
 Maintainer: Randy Johnson <johnsonra@mail.nih.gov>
-Depends: R (>= 3.0)
-Description: Data for use in analysis of Admixture Linkage Disequilibrium
-License: Revised BSD
+Depends: R (>= 3.5.0)
+Description: Data for use in analysis of Admixture Linkage Disequilibrium.
+License: file LICENSE
