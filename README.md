@@ -3,7 +3,7 @@ ALDdata
 
 Data for use in analysis of Admixture Linkage Disequilibrium
 
-This is an R package that is suggested for use with ALDsuite
+This is an R package that is suggested for use with ALDsuite (see http://github.com/johnsonra/ALDdata for additional details).
 
 File size is too big to upload complete the R package, so 
 users will need to build their own local copy. Download a zipped 
